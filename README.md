@@ -24,3 +24,6 @@ Description: Stores information about each race, including its date, time, and r
 ##### Sponsorships:
 Attributes: Sponsor_ID (Primary Key), Sponsor_Name, Team_ID (Foreign Key), Sponsorship_Date, Financial_Value.<br>
 Description: Records sponsorship details for teams participating in races.
+
+### SQL schema
+![](Images/img1.png)
