@@ -1,9 +1,27 @@
-SQL Project: Car Race 
+Project Title: Car Racing Management System
 
-This project show my proficiency with SQL if it in creation of the database or queries in SQL.
+Description:
+Implementing a database system to manage car races in a distant country, featuring various car models and teams competing on designated routes. The system records race details, participant information, and sponsorship data.
 
-After the creation of database I used multiple methods in the queries I created with regard of the SQL limitations.
+Entities:
 
-The main goal of this project is gaining exprience and show my knowledge in the SQL language.
+Cars:
 
-Thank you.
+Attributes: Car_ID (Primary Key), Model, Status
+Description: Records details of cars participating in races.
+Teams:
+
+Attributes: Team_ID (Primary Key), Team_Name, Founded_Date
+Description: Stores information about racing teams.
+Drivers:
+
+Attributes: Driver_ID (Primary Key), Full_Name, Nickname, Team_ID (Foreign Key), Date_of_Birth, Experience_Years
+Description: Manages data of drivers participating in races, including their affiliations.
+Races:
+
+Attributes: Race_ID (Primary Key), Race_Date, Start_Time, Route, Length_km
+Description: Stores information about each race, including its date, time, and route.
+Sponsorships:
+
+Attributes: Sponsor_ID (Primary Key), Sponsor_Name, Team_ID (Foreign Key), Sponsorship_Date, Financial_Value
+Description: Records sponsorship details for teams participating in races.
