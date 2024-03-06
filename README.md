@@ -1,4 +1,4 @@
-## Project Title: Car Racing Management System
+## Project: Car Racing Management System
 
 ### Description:
 Implementing a database system to manage car races in a distant country, featuring various car models and teams competing on designated routes. The system records race details, participant information, and sponsorship data.
