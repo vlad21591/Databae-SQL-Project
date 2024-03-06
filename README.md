@@ -28,4 +28,4 @@ Description: Records sponsorship details for teams participating in races.
 ### SQL schema
 ![](Images/Img1.png)
 
-After creating the DB, I created several possible users such as Racing Fans Club, Team Manager and Team Leader and created suitable SQL queries which help the user extract valuable information.     
+After creating the DB, I created several possible users such as Racing Fans Club, Team Manager and Team Leader and created suitable SQL queries which help the user extract valuable information (which are in the Code folder).
