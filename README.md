@@ -27,3 +27,4 @@ Description: Records sponsorship details for teams participating in races.
 
 ### SQL schema
 ![](Images/img1.png)
+![](Charts/Pie%20Charts%20By%20Category.png)
