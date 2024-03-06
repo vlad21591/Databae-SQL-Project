@@ -26,5 +26,4 @@ Attributes: Sponsor_ID (Primary Key), Sponsor_Name, Team_ID (Foreign Key), Spons
 Description: Records sponsorship details for teams participating in races.
 
 ### SQL schema
-![](Images/img1.png)
-![](Charts/Pie%20Charts%20By%20Category.png)
+![](Images/Img1.png)
